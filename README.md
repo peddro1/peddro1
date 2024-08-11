@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu git
+## 👋 Bem vindo(a) ao meu git
 
 <!--
 **peddro1/peddro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### Sobre mim
 
 🤔   Desenvolvendo aplicações.
-
 🎓   Estudando Engenharia de Computação no IFCE.
 
 Languages and Tools:
