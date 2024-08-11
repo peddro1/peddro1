@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem vindo(a) ao meu git
 
 <!--
 **peddro1/peddro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Sobre mim
+
+🤔   Desenvolvendo aplicações
+🎓   Estudando Engenharia de Computação no IFCE.
+💼   Participando do Apple Developer Academy IFCE e absorvendo o máximo de conhecimento possível.
+   
+Languages and Tools:
+
+Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
+
+Social Medias:
