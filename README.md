@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 ### Sobre mim
 
-🤔   Desenvolvendo aplicações
+🤔   Desenvolvendo aplicações.
 🎓   Estudando Engenharia de Computação no IFCE.
-💼   Participando do Apple Developer Academy IFCE e absorvendo o máximo de conhecimento possível.
-   
+
 Languages and Tools:
 
-Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
+Java Angular Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
 
 Social Medias:
