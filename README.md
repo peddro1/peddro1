@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sobre mim
+### Sobre mim
 
 🤔   Desenvolvendo aplicações
 🎓   Estudando Engenharia de Computação no IFCE.
