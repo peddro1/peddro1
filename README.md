@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
-Java Angular Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> Angular
+Java Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
 
 Social Medias:
