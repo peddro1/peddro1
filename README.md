@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Sobre mim
 
 🤔   Desenvolvendo aplicações.
+
 🎓   Estudando Engenharia de Computação no IFCE.
 
 Languages and Tools:
