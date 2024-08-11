@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  width="20" height="20"/> Angular
+<a href = "https://angular.dev"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" target="_blank">Angular</a>
 Java Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
 
 Social Medias:
