@@ -38,7 +38,8 @@ Languages and Tools:
 <a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" target="_blank" width="40" height="40"/></a>
 <a href = "https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" target="_blank" width="40" height="40"/></a>
 <a href = "https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" target="_blank" width="40" height="40"/></a>
-
+<a href = "https://code.visualstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" target="_blank" width="40" height="40"/></a>
+          
 </div> 
           
  C++ C TypeScript Visual Studio Code
