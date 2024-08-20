@@ -30,8 +30,9 @@ Languages and Tools:
 
 <a href = "https://angular.dev" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" target="_blank" width="40" height="40"></a>
 <a href = "https://www.oracle.com/br/java/technologies" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" target="_blank" width="40" height="40"/></a>
-
-Java Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
+<a href = "https://developer.apple.com/swift/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" target="_blank" width="40" height="40"/></a>
+          
+Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
 
 Social Medias:
 <div>
