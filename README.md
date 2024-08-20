@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### Sobre mim
 
-🤔   Desenvolvendo aplicações.
-
+🤔   Desenvolvendo aplicações. </br>
 🎓   Estudando Engenharia de Computação no IFCE.
 
 <div>
