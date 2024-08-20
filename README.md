@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 #### Languages and Tools:
 
 <div>
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
           
 <a href = "https://angular.dev" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" target="_blank" width="40" height="40"></a>
 <a href = "https://spring.io/projects/spring-boot" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" target="_blank" width="40" height="40"></a>
