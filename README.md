@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
-<a href = "https://angular.dev"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" target="_blank" width="15" height="15">Angular</a>
+<a href = "https://angular.dev" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" target="_blank" width="40" height="40"></a>
 Java Swift Git Figma JavaScript C++ C TypeScript Visual Studio Code
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 Social Medias:
+<div>
+<a href="https://www.youtube.com/@pedrofurtado19" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
