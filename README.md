@@ -34,12 +34,14 @@ Languages and Tools:
 <a href = "https://developer.apple.com/swift/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" target="_blank" width="40" height="40"/></a>
 <a href = "https://git-scm.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" target="_blank" width="40" height="40"/></a>
 <a href = "https://www.figma.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" target="_blank" width="40" height="40"/></a>
-<a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" target="_blank" width="40" height="40"/></a>
+<a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" target="_blank" width="40" height="40"/></a>
+<a href = "https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" target="_blank" width="40" height="40"/></a>
+<a href = "https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" target="_blank" width="40" height="40"/></a>
+<a href = "https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" target="_blank" width="40" height="40"/></a>
+
+</div> 
           
-</div>
-          
-          
- JavaScript C++ C TypeScript Visual Studio Code
+ C++ C TypeScript Visual Studio Code
 
 Social Medias:
 <div>
