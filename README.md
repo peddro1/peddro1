@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 #### Languages and Tools:
 
 <div>
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+          
 <a href = "https://angular.dev" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" target="_blank" width="40" height="40"></a>
+<a href = "https://spring.io/projects/spring-boot" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" target="_blank" width="40" height="40"></a>
 <a href = "https://www.oracle.com/br/java/technologies" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" target="_blank" width="40" height="40"/></a>
 <a href = "https://developer.apple.com/swift/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" target="_blank" width="40" height="40"/></a>
 <a href = "https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" target="_blank" width="40" height="40"/></a>
