@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <a href = "https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" target="_blank" width="40" height="40"/></a> 
 </div> 
 
-<a href="https://www.figma.com/design/IdheGK12kEtuGcA2IX7kvD/Portif%C3%B3lio?node-id=0-1&t=jmiA9s6w09K9L9sP-1">Figma Portifólio</a>
+<a href="https://www.figma.com/design/IdheGK12kEtuGcA2IX7kvD/Portif%C3%B3lio?node-id=0-1&t=jmiA9s6w09K9L9sP-1">🔭 Figma Portifólio</a>
 
 #### Social Medias:
 
