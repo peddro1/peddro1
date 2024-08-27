@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 ⚡   Desenvolvendo aplicações. </br>
 🎓   Estudando Engenharia de Computação no IFCE.
+<div>
+  <a href="https://www.figma.com/design/IdheGK12kEtuGcA2IX7kvD/Portif%C3%B3lio?node-id=0-1&t=jmiA9s6w09K9L9sP-1">🔭 Figma Portifólio</a>
+</div>
 
 
 <div>
@@ -47,10 +50,6 @@ Here are some ideas to get you started:
 <a href = "https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" target="_blank" width="40" height="40"/></a> 
 </div> 
 
-<div>
-</br>
-  <a href="https://www.figma.com/design/IdheGK12kEtuGcA2IX7kvD/Portif%C3%B3lio?node-id=0-1&t=jmiA9s6w09K9L9sP-1">🔭 Figma Portifólio</a>
-</div>
 
 
 #### Social Medias:
