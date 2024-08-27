@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Sobre mim
 
 ⚡   Desenvolvendo aplicações. </br>
-🎓   Estudando Engenharia de Computação no IFCE.
+🎓   Estudando Engenharia de Computação no IFCE. </br>
 <a href="https://www.figma.com/design/IdheGK12kEtuGcA2IX7kvD/Portif%C3%B3lio?node-id=0-1&t=jmiA9s6w09K9L9sP-1">🔭 Figma Portifólio</a>
 
 
