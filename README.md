@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </a>
 <a href = "https://nodejs.org/pt" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" target="_blank" width="40" height="40"/>
-</a
+</a>
 <a href = "https://code.visualstudio.com" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" target="_blank" width="40" height="40"/>
 </a>
